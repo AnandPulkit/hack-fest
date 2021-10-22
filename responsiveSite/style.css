@@ -4,14 +4,15 @@
         font-family: 'PT Sans', sans-serif;
         background-color: #f4f4f4;
     }
-
+    // this is a navbar
     .navbar {
         width: 100%;
-        margin: 0%;
+        margin: 0 0;
 
         background-color: #322;
     }
-
+    
+    // this is navbar nav
     .navbar-nav {
         font-size: 15px;
         font-family: 'PT Sans', sans-serif;
@@ -24,11 +25,12 @@
         max-width: 1240px;
         font-size: 17px;
     }
-
+    
+    // this is li
     li:hover {
         background-color: #322;
     }
-
+    // this is btn
     #btn {
         background-color: #103063;
         margin: auto;
@@ -40,7 +42,7 @@
         color: white;
         border: none;
     }
-
+       // this is container fluid
     .container-fluid h1 {
         font-size: 65px;
         font-weight: bold;
@@ -50,7 +52,7 @@
         font-size: 33px;
         font-weight: bold;
     }
-
+    this is container fluid fof h2
     .container-fluid h2 {
         font-size: 40px;
         font-weight: bold;
@@ -63,7 +65,8 @@
     .container-fluid p {
         font-size: 20px;
     }
-
+    
+// this is image
     .ims img {
         border-radius: 10px;
         height: 50%;
@@ -74,7 +77,8 @@
         border-radius: 5px;
 
         width: 93%;
-    }
+    }   
+// this is doc
 
     #doc {
         margin-top: 200px;
